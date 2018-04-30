@@ -1,3 +1,5 @@
 Master-Inserting another line for testing
 Mybranch-Inserting another line for creating conflict 
+Let us create a conflict
+
 creating another file for rebase test
