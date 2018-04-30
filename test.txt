@@ -1,6 +1,10 @@
 Master-Inserting another line for testing
 Mybranch-Inserting another line for creating conflict 
-Hi Sandesh
+<<<<<<< HEAD
 How are you sandesh?
 
+=======
+Let us create a conflict
+how are you sandesh?
+>>>>>>> mybranch
 creating another file for rebase test
