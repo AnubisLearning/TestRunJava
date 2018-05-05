@@ -1,0 +1,57 @@
+1948f0c HEAD@{0}: checkout: moving from featurebranch to master
+671881c HEAD@{1}: checkout: moving from master to featurebranch
+1948f0c HEAD@{2}: checkout: moving from featurebranch to master
+671881c HEAD@{3}: commit: testing diff command
+b2dcef8 HEAD@{4}: checkout: moving from master to featurebranch
+1948f0c HEAD@{5}: checkout: moving from featurebranch to master
+b2dcef8 HEAD@{6}: commit: test branch
+1948f0c HEAD@{7}: checkout: moving from master to featurebranch
+1948f0c HEAD@{8}: commit (amend): resolving conflict and correcting it
+97c6517 HEAD@{9}: commit (amend): resolving conflict
+3f35c2a HEAD@{10}: commit (merge): resolving conflict
+a3a2c3d HEAD@{11}: commit: third change
+b93a32d HEAD@{12}: checkout: moving from mybranch to master
+5291bba HEAD@{13}: checkout: moving from mybranch to mybranch
+5291bba HEAD@{14}: commit: second change
+0db710a HEAD@{15}: checkout: moving from master to mybranch
+b93a32d HEAD@{16}: commit: first change
+6c180d4 HEAD@{17}: checkout: moving from mybranch to master
+0db710a HEAD@{18}: commit: on sub-branch
+6c180d4 HEAD@{19}: checkout: moving from master to mybranch
+6c180d4 HEAD@{20}: merge mybranch: Fast-forward
+1c6f98a HEAD@{21}: checkout: moving from mybranch to master
+6c180d4 HEAD@{22}: commit: creating conflict
+1c6f98a HEAD@{23}: checkout: moving from master to mybranch
+1c6f98a HEAD@{24}: checkout: moving from mybranch to master
+1c6f98a HEAD@{25}: merge mybranch_2: Fast-forward
+52b2f9b HEAD@{26}: checkout: moving from master to mybranch
+1c6f98a HEAD@{27}: rebase finished: returning to refs/heads/master
+1c6f98a HEAD@{28}: rebase: checkout mybranch_2
+b0c9c15 HEAD@{29}: checkout: moving from mybranch_2 to master
+1c6f98a HEAD@{30}: commit: Creating another test file for rebase
+651ae5f HEAD@{31}: checkout: moving from master to mybranch_2
+b0c9c15 HEAD@{32}: checkout: moving from mybranch_2 to master
+651ae5f HEAD@{33}: checkout: moving from mybranch_2 to mybranch_2
+651ae5f HEAD@{34}: commit: created a file for testing rebase
+b0c9c15 HEAD@{35}: checkout: moving from master to mybranch_2
+b0c9c15 HEAD@{36}: checkout: moving from master to master
+b0c9c15 HEAD@{37}: checkout: moving from master to master
+b0c9c15 HEAD@{38}: reset: moving to HEAD^
+85abb28 HEAD@{39}: reset: moving to HEAD^
+00750b4 HEAD@{40}: revert: Revert "file a.txt deleted from the branch"
+85abb28 HEAD@{41}: commit: ignore test
+b0c9c15 HEAD@{42}: commit: renames file
+70daf82 HEAD@{43}: commit: file a.txt deleted from the branch
+bca8a87 HEAD@{44}: commit: File updated for a test
+1641d26 HEAD@{45}: commit: Adding new file..creating a diff
+52b2f9b HEAD@{46}: merge mybranch: Fast-forward
+3ca2a94 HEAD@{47}: checkout: moving from mybranch to master
+52b2f9b HEAD@{48}: commit: program files updated for branch-->mybranch
+3ca2a94 HEAD@{49}: checkout: moving from master to mybranch
+3ca2a94 HEAD@{50}: merge mybranch: Fast-forward
+31f3245 HEAD@{51}: checkout: moving from mybranch to master
+3ca2a94 HEAD@{52}: commit: adding a new file
+31f3245 HEAD@{53}: checkout: moving from master to mybranch
+31f3245 HEAD@{54}: pull origin: Merge made by the 'recursive' strategy.
+65311d2 HEAD@{55}: commit: Adding new java code
+8db44a3 HEAD@{56}: clone: from https://github.com/AnubisLearning/git_testing.git
