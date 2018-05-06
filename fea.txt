@@ -1,4 +1,10 @@
+
+Trying a new tag for branch remote
+<<<<<<< Updated upstream
 trying first stash
+=======
+Test stash#2
+>>>>>>> Stashed changes
 
 
 Trying to create a conflict
